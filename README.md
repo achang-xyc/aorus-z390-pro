@@ -50,7 +50,7 @@
 <li>HS13 – 4xUSB2.0</li>
 </ul>
 
-<img src="https://i.postimg.cc/FKJN5pcL/ports.png" alt="" width="450" height="500" />
+<img src="https://i.postimg.cc/XYmpN78P/hackintool.png" alt="" width="510" height="273" />
 <p>Hackintool USB output. Each port has been tested with a USB2.0 and USB3.X device and shows correct assignment (Internal on HS11 hub and ISB-C with switch on HS/SS06). To mirror an iMac more closely, ports SS01/02 can be enabled (either for an external case or to provide macOS the exact port number layout.)
 
 <h2>About</h2>
