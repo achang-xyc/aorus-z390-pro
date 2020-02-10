@@ -50,5 +50,8 @@
 <li>HS13 – 4xUSB2.0</li>
 </ul>
 
+<img src="https://i.postimg.cc/FKJN5pcL/ports.png" alt="" width="450" height="500" />
+<p>Hackintool USB output. Each port has been tested with a USB2.0 and USB3.X device and shows correct assignment (Internal on HS11 hub and ISB-C with switch on HS/SS06). To mirror an iMac more closely, ports SS01/02 can be enabled (either for an external case or to provide macOS the exact port number layout.)
+
 <h2>About</h2>
-<p>A highly modified version of AudioGod's Z390 Build. Populate PlatformInfo -> Generic block with your unique strings. See for full details: https://www.insanelymac.com/forum/topic/339980-audiogods-aorus-z390-pro-patched-dsdt-mini-guide-and-discussion/</p>
+<p>A highly modified version of AudioGod's <a href="https://www.insanelymac.com/forum/topic/339980-audiogods-aorus-z390-pro-patched-dsdt-mini-guide-and-discussion/">Z390 Build</a>. <em>Remember to complete the PlatformInfo block with your uique serial, ROM, etc.</em></p>
