@@ -528,6 +528,36 @@
 		<key>LegacyEnable</key>
 		<false/>
 	</dict>
+	<key>PlatformInfo</key>
+	<dict>
+		<key>Automatic</key>
+		<true/>
+		<key>Generic</key>
+		<dict>
+			<key>MLB</key>
+			<string>GENERATE</string>
+			<key>ROM</key>
+			<data>
+			ERER
+			</data>
+			<key>SpoofVendor</key>
+			<false/>
+			<key>SystemProductName</key>
+			<string>iMac19,1</string>
+			<key>SystemSerialNumber</key>
+			<string>GENERATE</string>
+			<key>SystemUUID</key>
+			<string>GENERATE</string>
+		</dict>
+		<key>UpdateDataHub</key>
+		<true/>
+		<key>UpdateNVRAM</key>
+		<true/>
+		<key>UpdateSMBIOS</key>
+		<true/>
+		<key>UpdateSMBIOSMode</key>
+		<string>Create</string>
+	</dict>
 	<key>UEFI</key>
 	<dict>
 		<key>ConnectDrivers</key>
