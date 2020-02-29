@@ -6,6 +6,7 @@
 <li>32GB RAM (2666Hz)</li>
 <li>Sapphire Radeon RX 5700 XT</li>
 <li>Samsung EVO 970 Pro Plus 500GB</li>
+<li>Fenvi FV-T919</li>
 </ul>
 
 <h2>BIOS Settings (F12d/F12c)</h2>
